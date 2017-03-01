@@ -1,0 +1,5245 @@
+{  
+   "statuses":[  
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"808999",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     72,
+                     80
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"381817",
+         "contributors":null,
+         "text":"I'll program the solid state RSS transmitter, that should interface the @locaweb ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"981226",
+         "id":808999,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":381817,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Miss Zboncak Lorna",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"77624",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":38,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":77624,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":941,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":941,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"miss_zboncak_lorna"
+         },
+         "in_reply_to_screen_name":"mark_iii_lehner",
+         "source":"web",
+         "in_reply_to_status_id":981226
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"323802",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"You can't parse the panel without overriding the primary CSS feed!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":323802,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Margaret Kuhlman Mrs",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"320113",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":30,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":320113,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":235,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":235,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"margaret_kuhlman_mrs"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"268378",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"eldridge_nikolaus",
+                  "name":"Eldridge Nikolaus",
+                  "id":20768,
+                  "id_str":"20768",
+                  "indices":[  
+                     1,
+                     19
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"20768",
+         "contributors":null,
+         "text":"@eldridge_nikolaus The SDD application is down, quantify the primary array so we ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"274547",
+         "id":268378,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":20768,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Gardner Cruickshank",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"68152",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":28,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":68152,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":237,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":237,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"gardner_cruickshank"
+         },
+         "in_reply_to_screen_name":"eldridge_nikolaus",
+         "source":"web",
+         "in_reply_to_status_id":274547
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"909545",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"cody_keeling",
+                  "name":"Cody Keeling",
+                  "id":315463,
+                  "id_str":"315463",
+                  "indices":[  
+                     1,
+                     14
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"315463",
+         "contributors":null,
+         "text":"@cody_keeling The GB card is down, override the virtual monitor so we can hack the RSS p",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"366462",
+         "id":909545,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":315463,
+         "place":null,
+         "favorite_count":396,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Schuppe Pedro",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"171583",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":41,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":171583,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":291,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":291,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"schuppe_pedro"
+         },
+         "in_reply_to_screen_name":"cody_keeling",
+         "source":"web",
+         "in_reply_to_status_id":366462
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"213381",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"chet_carroll_phd",
+                  "name":"Chet Carroll Phd",
+                  "id":104747,
+                  "id_str":"104747",
+                  "indices":[  
+                     3,
+                     20
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"ca @chet_carroll_phd e transmitter won't do anything, we need to program the online RAM bandwidth!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":4,
+         "in_reply_to_status_id_str":"",
+         "id":213381,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":96,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Giuseppe Williamson",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"68581",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":2,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":68581,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":459,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":459,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"giuseppe_williamson"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"699589",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"carey_ebert",
+                  "name":"Carey Ebert",
+                  "id":418547,
+                  "id_str":"418547",
+                  "indices":[  
+                     1,
+                     13
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"418547",
+         "contributors":null,
+         "text":"@carey_ebert The PCI transmitter is down, navigate the neural pr",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"318720",
+         "id":699589,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":418547,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Terry Muhammad",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"359296",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":8,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":359296,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":417,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":417,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"terry_muhammad"
+         },
+         "in_reply_to_screen_name":"carey_ebert",
+         "source":"web",
+         "in_reply_to_status_id":318720
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"827450",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"The AI panel is down, transmit the bluetooth driver so we can generate the SQL application!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":3,
+         "in_reply_to_status_id_str":"",
+         "id":827450,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":48,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Pollich Laurel",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"403703",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":30,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":403703,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":227,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":227,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"pollich_laurel"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"756088",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"miss_stark_dwight",
+                  "name":"Miss Stark Dwight",
+                  "id":215357,
+                  "id_str":"215357",
+                  "indices":[  
+                     11,
+                     29
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"Try to qua @miss_stark_dwight , maybe it will input the cross-platform sensor!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":5,
+         "in_reply_to_status_id_str":"",
+         "id":756088,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":153,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"I Skiles Andres",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"320992",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":3,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":320992,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":962,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":962,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"i_skiles_andres"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"682501",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb quantifying the transmitter won't do anything, we need to hack the haptic RSS feed!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":682501,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Mylene Wiza",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"386544",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":6,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":386544,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":848,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":848,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"mylene_wiza"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"541409",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"eldred_haley",
+                  "name":"Eldred Haley",
+                  "id":61456,
+                  "id_str":"61456",
+                  "indices":[  
+                     12,
+                     25
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"We need to  @eldred_haley  driver!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":3,
+         "in_reply_to_status_id_str":"",
+         "id":541409,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Gaylord Ms Syble",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"327428",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":29,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":327428,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":610,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":610,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"gaylord_ms_syble"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"664565",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb The AGP driver is down, program the primary bandwidth so we can calculate the FTP firewall!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":7,
+         "in_reply_to_status_id_str":"304065",
+         "id":664565,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":221,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Twila Lebsack Ms",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"220722",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":38,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":220722,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":125,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":125,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"twila_lebsack_ms"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":304065
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"345305",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     19,
+                     27
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"I'll calculate the @locaweb should card the HTTP pixel!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":345305,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":44,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Rosenbaum Pinkie Md",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"223803",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":0,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":223803,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":48,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":48,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"rosenbaum_pinkie_md"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"681587",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"ms_chesley_purdy",
+                  "name":"Ms Chesley Purdy",
+                  "id":389440,
+                  "id_str":"389440",
+                  "indices":[  
+                     60,
+                     77
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"You can't connect the firewall without backing up the bluet @ms_chesley_purdy ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":681587,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Randy Vonrueden",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"171565",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":13,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":171565,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":326,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":326,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"randy_vonrueden"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"357058",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"evert_kub_miss",
+                  "name":"Evert Kub Miss",
+                  "id":200843,
+                  "id_str":"200843",
+                  "indices":[  
+                     1,
+                     16
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"200843",
+         "contributors":null,
+         "text":"@evert_kub_miss backing up the driver won't do anything, we need to generate the back-en",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":2,
+         "in_reply_to_status_id_str":"362752",
+         "id":357058,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":200843,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Kathryne Fisher Iv",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"67008",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":32,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":67008,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":888,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":888,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"kathryne_fisher_iv"
+         },
+         "in_reply_to_screen_name":"evert_kub_miss",
+         "source":"web",
+         "in_reply_to_status_id":362752
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"610437",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb We need to generate the wireless HDD circuit!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":610437,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Kevin Miss Watsica",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"356566",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":23,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":356566,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":780,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":780,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"kevin_miss_watsica"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"569325",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"cronin_easter",
+                  "name":"Cronin Easter",
+                  "id":8133,
+                  "id_str":"8133",
+                  "indices":[  
+                     69,
+                     83
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"Try to calculate the RSS transmitter, maybe it will generate the cro @cronin_easter ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":7,
+         "in_reply_to_status_id_str":"",
+         "id":569325,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Elliot Parker",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"170991",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":3,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":170991,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":825,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":825,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"elliot_parker"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"799098",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb If we generate the card, we can get to the GB transmitter through the open-source USB matrix!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":5,
+         "in_reply_to_status_id_str":"",
+         "id":799098,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":209,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Iii Blanche Bosco",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"189803",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":40,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":189803,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":338,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":338,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"iii_blanche_bosco"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"799380",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb If we parse the matrix, we can get to the COM sensor through the open-source SQL bandwidth!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":5,
+         "in_reply_to_status_id_str":"",
+         "id":799380,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":173,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Edgardo Wisozk",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"415082",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":5,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":415082,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":887,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":887,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"edgardo_wisozk"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"604892",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     58,
+                     66
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"259797",
+         "contributors":null,
+         "text":"If we transmit the bandwidth, we can get to the HTTP moni @locaweb ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":4,
+         "in_reply_to_status_id_str":"392868",
+         "id":604892,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":259797,
+         "place":null,
+         "favorite_count":284,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Mrs Schulist Karl",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"235722",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":25,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":235722,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":583,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":583,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"mrs_schulist_karl"
+         },
+         "in_reply_to_screen_name":"leopold_hintz",
+         "source":"web",
+         "in_reply_to_status_id":392868
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"695899",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     66,
+                     74
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"377583",
+         "contributors":null,
+         "text":"backing up the pixel won't do anything, we need to back up the mu @locaweb ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"240481",
+         "id":695899,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":377583,
+         "place":null,
+         "favorite_count":297,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Zulauf Maya",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"165192",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":5,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":165192,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":766,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":766,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"zulauf_maya"
+         },
+         "in_reply_to_screen_name":"mante_dr_aliya",
+         "source":"web",
+         "in_reply_to_status_id":240481
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"276552",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"quantifying the matrix won't do anything, we need to hack the redundant USB system!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":276552,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Leannon Jena",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"17603",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":26,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":17603,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":770,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":770,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"leannon_jena"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"366140",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     6,
+                     14
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"35154",
+         "contributors":null,
+         "text":"We ne @locaweb  redundant ADP hard drive!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":5,
+         "in_reply_to_status_id_str":"71905",
+         "id":366140,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":35154,
+         "place":null,
+         "favorite_count":175,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Cronin Iii Jean",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"132781",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":9,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":132781,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":687,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":687,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"cronin_iii_jean"
+         },
+         "in_reply_to_screen_name":"sr_kole_senger",
+         "source":"web",
+         "in_reply_to_status_id":71905
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"13175",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"zemlak_jalen",
+                  "name":"Zemlak Jalen",
+                  "id":93616,
+                  "id_str":"93616",
+                  "indices":[  
+                     1,
+                     14
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"93616",
+         "contributors":null,
+         "text":"@zemlak_jalen We need to synthesize the d",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"398436",
+         "id":13175,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":93616,
+         "place":null,
+         "favorite_count":8,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Santina Bartell",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"247429",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":36,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":247429,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":161,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":161,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"santina_bartell"
+         },
+         "in_reply_to_screen_name":"zemlak_jalen",
+         "source":"web",
+         "in_reply_to_status_id":398436
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"386496",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"von_merle",
+                  "name":"Von Merle",
+                  "id":351101,
+                  "id_str":"351101",
+                  "indices":[  
+                     1,
+                     11
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"351101",
+         "contributors":null,
+         "text":"@von_merle We need to connect the virtual HDD pixel!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":6,
+         "in_reply_to_status_id_str":"175278",
+         "id":386496,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":351101,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Ziemann Alexane",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"362744",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":0,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":362744,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":660,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":660,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"ziemann_alexane"
+         },
+         "in_reply_to_screen_name":"von_merle",
+         "source":"web",
+         "in_reply_to_status_id":175278
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"848732",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"schaden_domingo_jr",
+                  "name":"Schaden Domingo Jr",
+                  "id":404397,
+                  "id_str":"404397",
+                  "indices":[  
+                     58,
+                     77
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"The SDD bandwidth is down, index the auxiliary circuit so @schaden_domingo_jr ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":7,
+         "in_reply_to_status_id_str":"",
+         "id":848732,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":84,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"West Roel",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"161814",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":33,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":161814,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":512,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":512,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"west_roel"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"39323",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     55,
+                     63
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"160364",
+         "contributors":null,
+         "text":"If we parse the bus, we can get to the FTP protocol th @locaweb ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"594280",
+         "id":39323,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":160364,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Reagan Lebsack",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"166563",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":21,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":166563,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":711,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":711,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"reagan_lebsack"
+         },
+         "in_reply_to_screen_name":"delpha_bosco",
+         "source":"web",
+         "in_reply_to_status_id":594280
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"7010",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb Try to navigate the AI microchip, maybe it will transmit the online array!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":7010,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Rippin Leora Ms",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"214708",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":29,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":214708,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":710,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":710,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"rippin_leora_ms"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"313854",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"md_bins_tiffany",
+                  "name":"Md Bins Tiffany",
+                  "id":15487,
+                  "id_str":"15487",
+                  "indices":[  
+                     1,
+                     17
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"15487",
+         "contributors":null,
+         "text":"@md_bins_tiffany I'll compress the virtual SMS port, that should circuit the ADP",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"28318",
+         "id":313854,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":15487,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Miss Verona Gutkowski",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"367269",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":30,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":367269,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":463,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":463,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"miss_verona_gutkowski"
+         },
+         "in_reply_to_screen_name":"md_bins_tiffany",
+         "source":"web",
+         "in_reply_to_status_id":28318
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"771626",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     14,
+                     22
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"336680",
+         "contributors":null,
+         "text":"If we index t @locaweb t to the PNG microchip through the haptic RAM sensor!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":6,
+         "in_reply_to_status_id_str":"986757",
+         "id":771626,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":336680,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Frida Kshlerin",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"288587",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":34,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":288587,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":325,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":325,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"frida_kshlerin"
+         },
+         "in_reply_to_screen_name":"yvonne_runolfsdottir",
+         "source":"web",
+         "in_reply_to_status_id":986757
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"677936",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb The SQL alarm is down, copy the back-end panel so we can calculate the HTTP system!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"15293",
+         "id":677936,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Reichert Adele",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"390538",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":29,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":390538,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":660,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":660,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"reichert_adele"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":15293
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"404476",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"zieme_afton",
+                  "name":"Zieme Afton",
+                  "id":333434,
+                  "id_str":"333434",
+                  "indices":[  
+                     1,
+                     13
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"333434",
+         "contributors":null,
+         "text":"@zieme_afton You can't parse the capacitor without transmitting the",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"432171",
+         "id":404476,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":333434,
+         "place":null,
+         "favorite_count":345,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Zulauf Miss Orrin",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"292043",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":0,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":292043,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":180,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":180,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"zulauf_miss_orrin"
+         },
+         "in_reply_to_screen_name":"zieme_afton",
+         "source":"web",
+         "in_reply_to_status_id":432171
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"492703",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"haley_spencer",
+                  "name":"Haley Spencer",
+                  "id":327469,
+                  "id_str":"327469",
+                  "indices":[  
+                     9,
+                     23
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"Try to h @haley_spencer t, maybe it will copy the redundant alarm!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":492703,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":200,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Barton Ii Golda",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"165958",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":11,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":165958,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":599,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":599,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"barton_ii_golda"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"467656",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"danyka_kovacek",
+                  "name":"Danyka Kovacek",
+                  "id":357081,
+                  "id_str":"357081",
+                  "indices":[  
+                     40,
+                     55
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"The GB bandwidth is down, parse the sol @danyka_kovacek ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":467656,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":262,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Miss Brakus Kitty",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"211090",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":30,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":211090,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":820,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":820,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"miss_brakus_kitty"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"87257",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb We need to index the multi-byte AI bus!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":1,
+         "in_reply_to_status_id_str":"678106",
+         "id":87257,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Runolfsson Rachael",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"154112",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":2,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":154112,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":592,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":592,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"runolfsson_rachael"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":678106
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"368357",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"ii_blaze_kohler",
+                  "name":"Ii Blaze Kohler",
+                  "id":384394,
+                  "id_str":"384394",
+                  "indices":[  
+                     1,
+                     17
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"384394",
+         "contributors":null,
+         "text":"@ii_blaze_kohler Try to synthesize the EXE array, maybe it will bypass the online",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":7,
+         "in_reply_to_status_id_str":"232864",
+         "id":368357,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":384394,
+         "place":null,
+         "favorite_count":243,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Miss Doyle Andres",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"129940",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":27,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":129940,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":890,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":890,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"miss_doyle_andres"
+         },
+         "in_reply_to_screen_name":"ii_blaze_kohler",
+         "source":"web",
+         "in_reply_to_status_id":232864
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"267011",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb Try to input the CSS array, maybe it will parse the neural matrix!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":8,
+         "in_reply_to_status_id_str":"280340",
+         "id":267011,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Stamm Raheem",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"227351",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":29,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":227351,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":248,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":248,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"stamm_raheem"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":280340
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"952564",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb You can't copy the microchip without quantifying the cross-platform AI application!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":952564,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":52,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Kozey Nikki Iv",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"72708",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":28,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":72708,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":111,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":111,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"kozey_nikki_iv"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"131447",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb Try to input the ADP circuit, maybe it will reboot the solid state bus!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":4,
+         "in_reply_to_status_id_str":"331645",
+         "id":131447,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Miss Ariane Jast",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"220704",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":24,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":220704,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":935,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":935,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"miss_ariane_jast"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":331645
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"687751",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"gerhold_rick_mr",
+                  "name":"Gerhold Rick Mr",
+                  "id":212763,
+                  "id_str":"212763",
+                  "indices":[  
+                     1,
+                     17
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"212763",
+         "contributors":null,
+         "text":"@gerhold_rick_mr I'll synthesize the solid state SMS pixel, that should firewall the FTP ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"149721",
+         "id":687751,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":212763,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Zetta Daugherty",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"109289",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":8,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":109289,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":135,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":135,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"zetta_daugherty"
+         },
+         "in_reply_to_screen_name":"gerhold_rick_mr",
+         "source":"web",
+         "in_reply_to_status_id":149721
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"973906",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"If we input the monitor, we can get to the FTP circuit through the 1080p EXE circuit!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":5,
+         "in_reply_to_status_id_str":"",
+         "id":973906,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Marks Delbert",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"144336",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":23,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":144336,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":757,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":757,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"marks_delbert"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"799807",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"We need to program the redundant SMTP monitor!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":7,
+         "in_reply_to_status_id_str":"",
+         "id":799807,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Rey Wunsch Md",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"172447",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":0,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":172447,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":374,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":374,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"rey_wunsch_md"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"988521",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb Use the back-end FTP sensor, then you can parse the mobile transmitter!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":8,
+         "in_reply_to_status_id_str":"622396",
+         "id":988521,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":204,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Littel Dr Randi",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"253652",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":16,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":253652,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":848,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":848,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"littel_dr_randi"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":622396
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"352068",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"You can't back up the bus without synthesizing the open-source AGP driver!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":2,
+         "in_reply_to_status_id_str":"",
+         "id":352068,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Rosalinda Koelpin",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"187071",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":49,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":187071,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":870,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":870,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"rosalinda_koelpin"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"848027",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"ahmed_iii_kihn",
+                  "name":"Ahmed Iii Kihn",
+                  "id":323320,
+                  "id_str":"323320",
+                  "indices":[  
+                     1,
+                     16
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"323320",
+         "contributors":null,
+         "text":"@ahmed_iii_kihn If we transmit the alarm, we can get to the SSL driver t",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"172243",
+         "id":848027,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":323320,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Beryl Kling",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"130089",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":46,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":130089,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":460,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":460,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"beryl_kling"
+         },
+         "in_reply_to_screen_name":"ahmed_iii_kihn",
+         "source":"web",
+         "in_reply_to_status_id":172243
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"912262",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     34,
+                     42
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"synthesizing the alarm won't do a @locaweb P microchip!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":2,
+         "in_reply_to_status_id_str":"",
+         "id":912262,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Iv Buddy Huel",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"114009",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":17,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":114009,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":801,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":801,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"iv_buddy_huel"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"866947",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"mckenzie_willa",
+                  "name":"Mckenzie Willa",
+                  "id":240454,
+                  "id_str":"240454",
+                  "indices":[  
+                     64,
+                     79
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"indexing the hard drive won't do anything, we need to override  @mckenzie_willa ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":7,
+         "in_reply_to_status_id_str":"",
+         "id":866947,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":182,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Jarrod Wolf",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"14645",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":14,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":14645,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":448,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":448,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"jarrod_wolf"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"590801",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     33,
+                     41
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"Use the solid state GB pixel, th @locaweb ",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":590801,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Eldred Hilll",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"78172",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":3,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":78172,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":917,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":917,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"eldred_hilll"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"107960",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     4,
+                     12
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"nav @locaweb larm won't do anything, we need to index the primary USB sensor!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":107960,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":114,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Mr Loraine Smith",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"271380",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":18,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":271380,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":9,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":9,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"mr_loraine_smith"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":true,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"280918",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"locaweb",
+                  "name":"Locaweb",
+                  "id":42,
+                  "id_str":"42",
+                  "indices":[  
+                     0,
+                     8
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"42",
+         "contributors":null,
+         "text":"@locaweb Use the 1080p CSS bus, then you can index the digital transmitter!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":6,
+         "in_reply_to_status_id_str":"400106",
+         "id":280918,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":42,
+         "place":null,
+         "favorite_count":159,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Vern Hyatt",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"136310",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":15,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":136310,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":595,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":595,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"vern_hyatt"
+         },
+         "in_reply_to_screen_name":"locaweb",
+         "source":"web",
+         "in_reply_to_status_id":400106
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"80546",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"Use the auxiliary PCI driver, then you can connect the mobile matrix!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":6,
+         "in_reply_to_status_id_str":"",
+         "id":80546,
+         "geo":null,
+         "retweeted":true,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Phd Nat Kunze",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"281657",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":47,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":281657,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":865,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":865,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"phd_nat_kunze"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      },
+      {  
+         "coordinates":null,
+         "favorited":false,
+         "truncated":false,
+         "created_at":"Mon Sep 24 03:35:21 +0000 2012",
+         "id_str":"446278",
+         "entities":{  
+            "urls":[  
+
+            ],
+            "hashtags":[  
+
+            ],
+            "user_mentions":[  
+               {  
+                  "screen_name":"wehner_maxime",
+                  "name":"Wehner Maxime",
+                  "id":226403,
+                  "id_str":"226403",
+                  "indices":[  
+                     3,
+                     17
+                  ]
+               }
+            ]
+         },
+         "in_reply_to_user_id_str":"",
+         "contributors":null,
+         "text":"We @wehner_maxime k up the multi-byte SSL driver!",
+         "metadata":{  
+            "iso_language_code":"pt",
+            "result_type":"recent"
+         },
+         "retweet_count":0,
+         "in_reply_to_status_id_str":"",
+         "id":446278,
+         "geo":null,
+         "retweeted":false,
+         "in_reply_to_user_id":null,
+         "place":null,
+         "favorite_count":0,
+         "user":{  
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_background_tile":false,
+            "name":"Nash Quitzon",
+            "profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "created_at":"Mon Apr 26 06:01:55 +0000 2010",
+            "location":"LA, CA",
+            "follow_request_sent":null,
+            "profile_link_color":"0084B4",
+            "is_translator":false,
+            "id_str":"201956",
+            "entities":{  
+               "url":{  
+                  "urls":[  
+                     {  
+                        "expanded_url":null,
+                        "url":"",
+                        "indices":[  
+                           0,
+                           0
+                        ]
+                     }
+                  ]
+               },
+               "description":{  
+                  "urls":[  
+
+                  ]
+               }
+            },
+            "default_profile":true,
+            "contributors_enabled":false,
+            "favourites_count":17,
+            "url":null,
+            "profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+            "utc_offset":-28800,
+            "id":201956,
+            "profile_use_background_image":true,
+            "listed_count":2,
+            "profile_text_color":"333333",
+            "lang":"en",
+            "followers_count":210,
+            "protected":false,
+            "notifications":null,
+            "profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_color":"C0DEED",
+            "verified":false,
+            "geo_enabled":true,
+            "time_zone":"Pacific Time (US & Canada)",
+            "description":"Born 330 Live 310",
+            "default_profile_image":false,
+            "profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+            "statuses_count":579,
+            "friends_count":210,
+            "following":null,
+            "show_all_inline_media":false,
+            "screen_name":"nash_quitzon"
+         },
+         "in_reply_to_screen_name":"",
+         "source":"web",
+         "in_reply_to_status_id":null
+      }
+   ]
+}

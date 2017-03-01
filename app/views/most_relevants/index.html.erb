@@ -1,0 +1,24 @@
+<h1>Tweets mais Relevantes sobre a Locaweb!</h1>
+
+<table>
+    <% @tweets.each do |tw| %>
+        <tr>
+            <td colspan=3><b>Nome:</b> <%= tw.user %></td>
+        <tr>
+        <tr>
+            <td colspan=3><b>Tweet:</b> <%= tw.text %></td>
+        <tr>
+        </tr>                
+            <td colspan=3>
+                <b>Seguidores:</b> <%= tw.followers %> 
+                <b> - Retweets:</b> <%= tw.retweets %> 
+                <b> - Likes:</b> <%= tw.likes %> 
+                <b> - Data:</b> <%= DateTime.parse(tw.date).strftime('%d/%m/%y %H:%M:%S') %></td>
+        </tr>
+        <tr>
+            <td colspan=3><b>Url:</b> <%= tw.url %> <b></td>
+        </tr>
+        <tr><td colspan=3>--------------------------------------------------------------------</td></tr>
+    <% end %>
+</table>
+<br>
