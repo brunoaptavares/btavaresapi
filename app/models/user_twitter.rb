@@ -1,6 +1,6 @@
 #Classe que representa um usuário do Twitter
 class UserTwitter
-	attr_reader :id, :name, :followers, :url, :tweets
+	attr_accessor :id, :name, :followers, :url, :tweets
 
 	def initialize(params)
 		@id = params[:id]

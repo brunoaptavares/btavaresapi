@@ -2,7 +2,7 @@ require 'date'
 
 #Classe que representa um tweet de um usuário do Twitter
 class Tweet
-	attr_reader :user, :url, :followers, :retweets, :likes, :text, :date
+	attr_accessor :user, :url, :followers, :retweets, :likes, :text, :date
 
 	def initialize(params)
 
